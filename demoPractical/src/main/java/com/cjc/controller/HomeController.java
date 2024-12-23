@@ -13,6 +13,7 @@ import com.cjc.model.Student;
 @RestController
 public class HomeController {
 	int a=10;
+	int b=20;
 @GetMapping("/getData")
 public String data()
 {
