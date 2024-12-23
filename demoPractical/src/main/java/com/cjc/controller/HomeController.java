@@ -16,6 +16,7 @@ public class HomeController {
 	int b=20;
 	int d=80;
 	int c=100;
+	int e=150;
 @GetMapping("/getData")
 public String data()
 {
